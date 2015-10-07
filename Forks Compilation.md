@@ -5,17 +5,24 @@
 
 2015-06-20 - [BIP 99 - Types of forks and deployment mechanisms][bip99]
 
-2013-03-12 - [Recommendation to miners and merchants in the aftermath of the fork.][0.7_fork_alert] 
+2013-03-12 - [Recommendation to miners and merchants in the aftermath of the fork][0.7_fork_alert] 
 
 ### Low Signal links
 
 2013-03-12 - [Conflict between the v0.8 and v0.7 versions of bitcoind, causing historic forking event in 2013][0.7_fork_event]
+
+2015-05-10 - [Fork to extend transactions with UTXO info, saving space in node UTXO databases][UTXO-extend]
+
+2014-11-03 - [Wishlist of changes to be made in next hard fork][hardfork-wishlist]
 
 [//]: ##
 
    [0.7_fork_event]: <https://bitcoinmagazine.com/articles/bitcoin-network-shaken-by-blockchain-fork-1363144448>
    [0.7_fork_alert]: <https://bitcointalk.org/index.php?topic=152030.0>
    [bip99]: <https://github.com/jtimon/bips/blob/bip-forks/bip-0099.mediawiki>
+   [UTXO-extend]: <https://bitcointalk.org/index.php?topic=1056866.0>
+   [hardfork-wishlist]: <https://bitcointalk.org/index.php?topic=844944.0>
+   
 
 ---
    
